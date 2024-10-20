@@ -1,0 +1,51 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration files
+/local.properties
+/.idea/libraries/
+/.idea/workspace.xml
+.idea/
+
+# Android Studio
+/captures/
+/.externalNativeBuild/
+*.iml
+
+# Kotlin/JS build
+/out/
+
+# IntelliJ IDEA
+/.idea/
+
+# Mac OS
+.DS_Store
+
+# Ignore log files and Android Studio generated folders
+.gradle/
+/build/
+/captures/
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Proguard
+*.mapping
+*.hprof
+
+# Others
+*.log
+*.orig
+*.keystore
+.idea/codeStyles/Project.xml
+.idea/codeStyles/codeStyleConfig.xml
